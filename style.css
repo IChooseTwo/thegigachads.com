@@ -1,0 +1,39 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background: black;
+  }
+
+  h1{
+    color: white;
+  }
+  
+  .title {
+    margin: 10px 0 0;
+    text-align: center;
+  }
+
+  img {
+    max-height: 750px;
+    max-width: 760px;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-height: 750px;
+    max-width: 760px;
+    gap: 10px;
+  }
+  
