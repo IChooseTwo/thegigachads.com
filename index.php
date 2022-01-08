@@ -30,7 +30,6 @@ $i = rand(2, sizeof($images)-1);
     </head>
 
   <body>
-    <iframe id="todelete" src="/songs/sigma.mp3" allow="autoplay" style=""></iframe>
     <meta property="og:url"                content="https://www.thegigachads.com/" />
     <meta property="og:type"               content="Giga Chads" />
     <meta property="og:title"              content="Only True Chads" />
@@ -46,6 +45,6 @@ $i = rand(2, sizeof($images)-1);
     <p>‎</p>
     <script src="script.js"></script>
     <a href="https://forms.gle/jbLd65g9uEQV7y5HA"><button>Google Forms</button></a>
-    <button onclick="Delete()">Turn Off Music</button> 
+    <iframe id="todelete" src="/songs/sigma.mp3" allow="autoplay" style=""></iframe>
   </body>
 </html>
