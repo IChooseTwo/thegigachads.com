@@ -45,6 +45,6 @@ $i = rand(2, sizeof($images)-1);
     <p>‎</p>
     <script src="script.js"></script>
     <a href="https://forms.gle/jbLd65g9uEQV7y5HA"><button>Google Forms</button></a>
-    <iframe id="todelete" src="/songs/sigma.mp3" allow="autoplay" style=""></iframe>
+    <audio autoplay="true" src="/songs/sigma.mp3">
   </body>
 </html>
