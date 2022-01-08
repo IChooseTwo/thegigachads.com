@@ -9,6 +9,7 @@ $i = rand(2, sizeof($images)-1);
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <script async src="https://arc.io/widget.min.js#w4mhBLDq"></script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8196573502351162"
      crossorigin="anonymous"></script>
     <meta charset="UTF-8" />
@@ -29,7 +30,7 @@ $i = rand(2, sizeof($images)-1);
     </head>
 
   <body>
-    <iframe id="todelete" src="/songs/sigma.mp3" allow="autoplay" style="display:none"></iframe>
+    <iframe id="todelete" src="/songs/sigma.mp3" allow="autoplay" style=""></iframe>
     <meta property="og:url"                content="https://www.thegigachads.com/" />
     <meta property="og:type"               content="Giga Chads" />
     <meta property="og:title"              content="Only True Chads" />
